@@ -1,0 +1,12 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\bin\StudentApp.dll.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\bin\StudentApp.dll
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\bin\StudentApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 08\07.08.2015\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\bin\StudentApp.dll.config
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\bin\StudentApp.dll
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\bin\StudentApp.pdb
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+E:\Dot NET\BASIS_C#_CODE\7th_Class-2015-07-09\StudentApp\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
